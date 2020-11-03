@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/williamleonards/Documents/String Searching Algorithm/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+test.h
+/Users/williamleonards/Documents/String Searching Algorithm/test.h
+
+/Users/williamleonards/Documents/String Searching Algorithm/test.cpp
+test.h
+/Users/williamleonards/Documents/String Searching Algorithm/test.h
+main.cpp
+/Users/williamleonards/Documents/String Searching Algorithm/main.cpp
+vector
+-
+string
+-
+
+/Users/williamleonards/Documents/String Searching Algorithm/test.h
+
